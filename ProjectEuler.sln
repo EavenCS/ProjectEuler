@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "ProjectEuler\ProjectEuler.csproj", "{D25AAB3C-3748-45AB-B61E-2E712862F6AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectEuler", "ProjectEuler\ProjectEuler.csproj", "{D25AAB3C-3748-45AB-B61E-2E712862F6AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_0001", "Problem_0001\Problem_0001.csproj", "{76D161DF-7D43-42CF-A549-75201B3EEE95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem_0001", "Problem_0001\Problem_0001.csproj", "{76D161DF-7D43-42CF-A549-75201B3EEE95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_0002", "Problem_0002\Problem_0002.csproj", "{52CA8B51-56F2-4522-8256-4BBEB6AD90FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem_0002", "Problem_0002\Problem_0002.csproj", "{52CA8B51-56F2-4522-8256-4BBEB6AD90FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_0003", "Problem_0003\Problem_0003.csproj", "{91642ED2-C6C2-4297-B718-62EF6572A531}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem_0003", "Problem_0003\Problem_0003.csproj", "{91642ED2-C6C2-4297-B718-62EF6572A531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_0004", "Problem_0004\Problem_0004.csproj", "{B9F9B02A-9D46-445C-BD31-D9C80F7CD3FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{91642ED2-C6C2-4297-B718-62EF6572A531}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91642ED2-C6C2-4297-B718-62EF6572A531}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91642ED2-C6C2-4297-B718-62EF6572A531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F9B02A-9D46-445C-BD31-D9C80F7CD3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F9B02A-9D46-445C-BD31-D9C80F7CD3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F9B02A-9D46-445C-BD31-D9C80F7CD3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F9B02A-9D46-445C-BD31-D9C80F7CD3FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

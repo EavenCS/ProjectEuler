@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace Problem_0004
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
